@@ -3,7 +3,7 @@ terraform {
 }
 
 provider "aws" {
-  # MODIFY this line to look for 2.27.0 or greater
+  # MODIFY this line to look for 2.27.0 or greater..11
   version = ">= 2.27.0"
 }
 
